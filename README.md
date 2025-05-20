@@ -1,5 +1,7 @@
 # Neelam-s_Portfolio
 
+![Description](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXd2OXg5aHBkNGYzMDFhZmxmeGJ6ZWlxejVpZWU0MjhkdWFmbmVtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mBukxOCWsdVAXIJUUW/giphy.gif)
+
 # [1. Project on Online Book Store](https://github.com/Neelam11199/SQL-Project-on-Online-Book-store)
 
 * Data Source: The dataset used for this project was obtained from publicly available Google search data.
