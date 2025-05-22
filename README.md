@@ -26,6 +26,20 @@
 
 * [The Project Code/Solutions](https://github.com/Neelam11199/SQL_Music_Store_Analysis/blob/main/Music_Store_Solution.sql)
 
+# [3. Project on SQL Booking.com](https://github.com/Neelam11199/Booking.com-Project) 
+
+* [Data Source:] The dataset used for this project was obtained from publicly available hotel booking data sourced via Google search.(https://github.com/Neelam11199/Booking.com-Project/blob/main/booking_Dataset.csv)
+
+* Data Model: The analysis is based on a single bookings table, transformed into a clean, deduplicated view (booking_view) for reliable insight generation.
+
+* Schema Design: Although based on a flat file, the project emulates a dimensional model where attributes like market_segment, hotel, and country act as dimensions for slicing insights.
+
+*  Analysis: The SQL script answers key business questions using advanced SQL queries, including CTEs, aggregations, and date-based analysis, executed in PostgreSQL/MySQL-compatible syntax.
+
+*  Project Assets:
+   • [Project Write-up:](https://github.com/Neelam11199/Booking.com-Project/blob/main/README.md)
+   • [Project Code:](https://github.com/Neelam11199/Booking.com-Project/blob/main/Booking.com%20Project%20Solution.sql)
+
 
 
 
