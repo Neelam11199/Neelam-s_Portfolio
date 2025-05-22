@@ -28,7 +28,7 @@
 
 # [3. Project on SQL Booking.com](https://github.com/Neelam11199/Booking.com-Project) 
 
-* [Data Source:] The dataset used for this project was obtained from publicly available hotel booking data sourced via Google search.(https://github.com/Neelam11199/Booking.com-Project/blob/main/booking_Dataset.csv)
+* [Data Source:](https://github.com/Neelam11199/Booking.com-Project/blob/main/booking_Dataset.csv) The dataset used for this project was obtained from publicly available hotel booking data sourced via Google search.
 
 * Data Model: The analysis is based on a single bookings table, transformed into a clean, deduplicated view (booking_view) for reliable insight generation.
 
